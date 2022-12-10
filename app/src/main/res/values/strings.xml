@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyAndroidStudio</string>
+    <string name="button">Button</string>
+    <string name="clickme" />
+    <string name="Click_me" />
+    <string name="click_me">Click_me</string>
 </resources>
